@@ -1,22 +1,15 @@
-# CRUD with Nodejs, Express and Mongodb
+# Proyecto
 
 ![](docs/screenshot.png)
 
-This is a Multi page application using nodejs mongodb and handlebars
+Código que contiene proyecto de universidad para explicación de funcionamiento de aplicación de base de datos no relacional libre.
 
-### Installation with docker-compose (Recommended)
 
-```bash
-git clone https://github.com/FaztWeb/express-mongodb-crud
-cd express-mongodb-crud
-docker-compose up
-```
-
-### Installation (Manually)
+### Configuración 
 
 #### Requirements
 
-* You need mongodb installed and running on your computer. or alternatively you can use docker
+* Necesita mongodb instalado, nodejs y para mayor comodidad Visual Studio Code.
 
 ```bash
 git clone https://github.com/FaztWeb/express-mongodb-crud
@@ -26,15 +19,5 @@ npm run build
 npm start
 ```
 
-Now you can visit: <a target="_blank" href="http://localhost:3000">http://localhost:3000</a>
+Una vez ejecutado todo, ir en su ordenador a: <a target="_blank" href="http://localhost:3000">http://localhost:3000</a>
 
-### Todo
-
-* [ ] add search input to find tasks
-* [ ] add usert authentication and authorization
-* [ ] add docker configuration for production
-* [ ] add github actions setup
-* [ ] add connect-mongo to store session in db
-* [ ] remove babel with es modules
-* [ ] add error handling
-* [ ] add a validation library for user input

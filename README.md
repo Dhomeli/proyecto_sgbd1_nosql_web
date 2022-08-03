@@ -1,6 +1,6 @@
 # Proyecto
 
-![](docs/screenshot.png)
+![](docs/referencia_web.png)
 
 Código que contiene proyecto de universidad para explicación de funcionamiento de aplicación de base de datos no relacional libre.
 

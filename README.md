@@ -7,12 +7,12 @@ Código que contiene proyecto de universidad para explicación de funcionamiento
 
 ### Configuración 
 
-#### Requirements
+#### Requerimientos
 
 * Necesita mongodb instalado, nodejs y para mayor comodidad Visual Studio Code.
 
 ```bash
-git clone https://github.com/FaztWeb/express-mongodb-crud
+git clone https://github.com/Dhomeli/proyecto_sgbd1_nosql_web.git
 cd express-mongodb-crud
 npm install
 npm run build

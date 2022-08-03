@@ -13,7 +13,7 @@ Código que contiene proyecto de universidad para explicación de funcionamiento
 
 ```bash
 git clone https://github.com/Dhomeli/proyecto_sgbd1_nosql_web.git
-cd express-mongodb-crud
+cd proyecto_sgbd1_nosql_web
 npm install
 npm run build
 npm start
